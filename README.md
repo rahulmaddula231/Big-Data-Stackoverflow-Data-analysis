@@ -37,6 +37,6 @@ Analysing certain aspects of the stack overflow data
   Writing query for marking spammers by matching vote id from votes dataset id = 12 (as described by Stack Overflow community a spam)     with   user id in comments dataset and grouping into one table.
   
   #### Query 4: Top 10 Reputed Users
-  Writing query for top 10 most valuable users in the user dataset, column referred in this was reputation which signifies the repute     of a user.
+  Writing query for top 10 most Reputed users in the user dataset, column referred in this was reputation which signifies the repute     of a user.
   
 
